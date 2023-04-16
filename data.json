@@ -1,0 +1,332 @@
+{
+  "eyes": [
+    {
+      "title": "lentes de contacto estetico",
+      "description": "ocean blue",
+      "price": "$",
+      "image": "./assets/eyes/ocean-blue.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "aurora blue",
+      "price": "$",
+      "image": "./assets/eyes/aurora-blue.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "aurora cristal",
+      "price": "$",
+      "image": "./assets/eyes/aurora-cristal.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "russia girl gray",
+      "price": "$",
+      "image": "./assets/eyes/russia-girl-gray.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "russia girl blue",
+      "price": "$",
+      "image": "./assets/eyes/russian-girl-blue.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "siam green",
+      "price": "$",
+      "image": "./assets/eyes/siam-green.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "himalaya green",
+      "price": "$",
+      "image": "./assets/eyes/himalaya-green.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "himalaya blue",
+      "price": "$",
+      "image": "./assets/eyes/himalaya-blue.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "miki gray",
+      "price": "$",
+      "image": "./assets/eyes/miki-gray.jpg"
+    },{
+      "title": "lentes de contacto estetico",
+      "description": "miki green",
+      "price": "$",
+      "image": "./assets/eyes/miki-green.jpg"
+    }
+  ],
+  "pack": [
+    {
+      "title": "combo",
+      "description": "accesorio + caja musical",
+      "price": "$49.500",
+      "image": "./assets/accesories/combo-1.jpg"
+    },{
+      "title": "combo",
+      "description": "accesorio + caja musical",
+      "price": "$49.500",
+      "image": "./assets/accesories/combo-2.jpg"
+    },{
+      "title": "combo",
+      "description": "accesorio + caja musical",
+      "price": "$49.500",
+      "image": "./assets/accesories/combo-3.jpg"
+    },{
+      "title": "combo",
+      "description": "accesorio + caja musical",
+      "price": "$49.500",
+      "image": "./assets/accesories/combo-4.jpg"
+    }
+  ],
+  "music_box": [
+    {
+      "title": "cajita musical",
+      "description": "personalizada con cancion de harry potter",
+      "price": "$35.000",
+      "image": "./assets/accesories/music-box-potter.jpg"
+    },{
+      "title": "cajita musical",
+      "description": "personalizada con cancion de queen",
+      "price": "$35.000",
+      "image": "./assets/accesories/music-box-queen.jpg"
+    },{
+      "title": "cajita musical",
+      "description": "personalizada con cancion de star wars",
+      "price": "$35.000",
+      "image": "./assets/accesories/music-box-war.jpg"
+    },{
+      "title": "cajita musical",
+      "description": "personalizada con cancion de cumpleaños",
+      "price": "$35.000",
+      "image": "./assets/accesories/music-box-birthday.jpg"
+    }
+  ],
+  "chain": [
+    {
+      "title": "accesorio",
+      "description": "cadena en acero de 25 cm de largo + dije de 4.5 cm",
+      "price": "$20.000",
+      "image": "./assets/accesories/chain-wings.jpg"
+    },{
+      "title": "accesorio",
+      "description": "cadena en acero de 25 cm de largo + dije de 4.5 cm",
+      "price": "$20.000",
+      "image": "./assets/accesories/chain-poison.jpg"
+    },{
+      "title": "accesorio",
+      "description": "cadena en acero de 25 cm de largo + dije de 4.5 cm",
+      "price": "$20.000",
+      "image": "./assets/accesories/chain-cup.jpg"
+    },{
+      "title": "accesorio",
+      "description": "cadena en acero de 25 cm de largo + dije de 4.5 cm",
+      "price": "$20.000",
+      "image": "./assets/accesories/chain-hat.jpg"
+    }
+  ],
+  "product": [
+    {
+      "title": "ref: cd57",
+      "description": "kit pestañina + primer cebra duo",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-1.jpg"
+    },{
+      "title": "ref: ge188",
+      "description": "kit duo pestañina + fortalecedora gold eyes",
+      "price": "$18.000",
+      "image": "./assets/accesories/product-2.jpg"
+    },{
+      "title": "ref: bm07",
+      "description": "pestañina boom trendy",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-3.jpg"
+    },{
+      "title": "ref: 56310-03B",
+      "description": "PESTAÑINA MEGA IMPACT KARITE 8XL",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-4.jpg"
+    },{
+      "title": "ref: Sc8",
+      "description": "CORRECTOR + TRATAMIENTO TRENDY SUPER CONCEALER",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-5.jpg"
+    },{
+      "title": "ref: SC01-06",
+      "description": "CORRECTOR DE OJERAS SCHOOL COLLECTION TRENDY",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-6.jpg"
+    },{
+      "title": "ref: EBK259",
+      "description": "JABON DE CEJAS KLEAN COLOR",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-7.jpg"
+    },{
+      "title": "ref: 56839-47",
+      "description": "GEL FIJADOR DE CEJAS KARITE",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-8.jpg"
+    },{
+      "title": "ref: EBK433",
+      "description": "CERA FIJADORA DE CEJAS KLEAN COLOR",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-9.jpg"
+    },{
+      "title": "ref: 000",
+      "description": "PINTUCARITAS X8 COLORES SCOOBY DOO",
+      "price": "$6.000",
+      "image": "./assets/accesories/product-10.jpg"
+    },{
+      "title": "ref: BLK07",
+      "description": "TINTA MARCADOR TRENDY MARKER TINT",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-11.jpg"
+    },{
+      "title": "ref: HL15",
+      "description": "BRILLO MAGICO HIDRATANTE TRENDY HONEY",
+      "price": "$6.000",
+      "image": "./assets/accesories/product-12.jpg"
+    },{
+      "title": "ref: 2974-47",
+      "description": "BRILLO MAGICO ALOE VERA KARITE",
+      "price": "$4.000",
+      "image": "./assets/accesories/product-13.jpg"
+    },{
+      "title": "ref: CL11",
+      "description": "LABIAL CRAYOLA TRENDY",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-14.jpg"
+    },{
+      "title": "ref: 70832-47",
+      "description": "LABIAL MATTE KARITE VELVET",
+      "price": "$8.000",
+      "image": "./assets/accesories/product-15.jpg"
+    },{
+      "title": "ref: 70604-47",
+      "description": "BRILLO VOLUMINIZADOR LIP PLUMP KARITE",
+      "price": "$6.000",
+      "image": "./assets/accesories/product-16.jpg"
+    },{
+      "title": "ref: SL13",
+      "description": "BRILLO VOLUMINIZADOR TRENDY SMOOTHIE LIPS",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-17.jpg"
+    },{
+      "title": "ref: SFP09",
+      "description": "SOMBRA EN TRIO SWEET TRENDY",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-18.jpg"
+    },{
+      "title": "ref: LOV13",
+      "description": "SOMBRA LOVE PERFECT TRENDY - surtido",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-19.jpg"
+    },{
+      "title": "ref: C06-09 COCO",
+      "description": "SOMBRA FRUTAS TRENDY",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-20.jpg"
+    },{
+      "title": "ref: C06-09 fresa",
+      "description": "SOMBRA FRUTAS TRENDY",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-21.jpg"
+    },{
+      "title": "ref: C06-09 uva",
+      "description": "SOMBRA FRUTAS TRENDY",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-22.jpg"
+    },{
+      "title": "ref: C16",
+      "description": "PALETA PARA ROSTRO PEACH KAWAII TRENDY",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-23.jpg"
+    },{
+      "title": "ref: SC01",
+      "description": "SOMBRA SUMMER COLLECTION TRENDY",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-24.jpg"
+    },{
+      "title": "ref: 5244",
+      "description": "SOMBRA NOVO CHARM",
+      "price": "$5.000",
+      "image": "./assets/accesories/product-25.jpg"
+    },{
+      "title": "ref: BL10",
+      "description": "RUBOR EN CREMA ESTAMPITA LOVE PERFECT",
+      "price": "$20.000",
+      "image": "./assets/accesories/product-26.jpg"
+    },{
+      "title": "ref: C15",
+      "description": "RUBOR ILUMINADOR EN TRIO PEACH TRENDY",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-27.jpg"
+    },{
+      "title": "ref: Pk43",
+      "description": "RUBOR PEACH KAWAII DUO TRENDY",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-28.jpg"
+    },{
+      "title": "ref: T117B",
+      "description": "RUBOR MINERALIZADO X 4 BAKING ROMANTIC BIRD",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-29.jpg"
+    },{
+      "title": "ref: Rb42",
+      "description": "RUBOR Y CONTORNO ROCK BLUSH TRENDY",
+      "price": "$10.000",
+      "image": "./assets/accesories/product-30.jpg"
+    },{
+      "title": "ref: Ph03",
+      "description": "POLVO DE HADAS TRENDY 15g",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-31.jpg"
+    },{
+      "title": "ref: Kt02",
+      "description": "KIT PRIMER + PESTAÑINA BASIC LOOK ",
+      "price": "$25.000",
+      "image": "./assets/accesories/product-32.jpg"
+    },{
+      "title": "ref: SP98",
+      "description": "CORRECTOR DE OJERAS DOBLE SUPER COOL TRENDY",
+      "price": "$15.000",
+      "image": "./assets/accesories/product-33.jpg"
+    },{
+      "title": "ref: 68357-47A",
+      "description": "CORRECTOR KARITE SUPER COVER",
+      "price": "$7.000",
+      "image": "./assets/accesories/product-34.jpg"
+    },{
+      "title": "ref: SL20",
+      "description": "KIT DE OJOS TRENDY SUPER LOOK PESTAÑINA + DELINEADOR EN POMADA + LAPIZ DE GEL",
+      "price": "$18.000",
+      "image": "./assets/accesories/product-35.jpg"
+    },{
+      "title": "ref: Ey16",
+      "description": "LAPIZ DE OJOS TRENDY BLANCO",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-36.jpg"
+    },{
+      "title": "ref: EY18",
+      "description": "LAPIZ DE OJOS CREMA TRENDY",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-37.jpg"
+    },{
+      "title": "ref: Re15",
+      "description": "KIT X8 DELINEADORES MATTE COLORIDOS RAINBOW TRENDY",
+      "price": "$40.000",
+      "image": "./assets/accesories/product-38.jpg"
+    },{
+      "title": "ref: EY22",
+      "description": "LAPIZ DE OJOS PLATEADO TRENDY - unidad",
+      "price": "$12.000",
+      "image": "./assets/accesories/product-39.jpg"
+    },{
+      "title": "ref: BC04",
+      "description": "COCTEL DE CEJAS TRENDY BETUN + POLVO",
+      "price": "$18.000",
+      "image": "./assets/accesories/product-40.jpg"
+    },{
+      "title": "ref: AEP404",
+      "description": "LÁPIZ DE CEJAS TIPO MICROBLADING KLEAN COLOR",
+      "price": "$4.000",
+      "image": "./assets/accesories/product-41.jpg"
+    }
+  ]
+}

@@ -1,52 +1,52 @@
 {
   "eyes": [
     {
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "ocean blue",
       "price": "$",
       "image": "./assets/eyes/ocean-blue.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "aurora blue",
       "price": "$",
       "image": "./assets/eyes/aurora-blue.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "aurora cristal",
       "price": "$",
       "image": "./assets/eyes/aurora-cristal.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "russia girl gray",
       "price": "$",
       "image": "./assets/eyes/russia-girl-gray.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "russia girl blue",
       "price": "$",
       "image": "./assets/eyes/russian-girl-blue.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "siam green",
       "price": "$",
       "image": "./assets/eyes/siam-green.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "himalaya green",
       "price": "$",
       "image": "./assets/eyes/himalaya-green.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "himalaya blue",
       "price": "$",
       "image": "./assets/eyes/himalaya-blue.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "miki gray",
       "price": "$",
       "image": "./assets/eyes/miki-gray.jpg"
     },{
-      "title": "lentes de contacto estetico",
+      "title": "lentes de contacto estético",
       "description": "miki green",
       "price": "$",
       "image": "./assets/eyes/miki-green.jpg"
@@ -93,7 +93,7 @@
       "image": "./assets/accesories/music-box-war.jpg"
     },{
       "title": "cajita musical",
-      "description": "personalizada con cancion de cumpleaños",
+      "description": "personalizada con canción de cumpleaños",
       "price": "$35.000",
       "image": "./assets/accesories/music-box-birthday.jpg"
     }
@@ -154,7 +154,7 @@
       "image": "./assets/accesories/product-6.jpg"
     },{
       "title": "ref: EBK259",
-      "description": "JABON DE CEJAS KLEAN COLOR",
+      "description": "JABÓN DE CEJAS KLEAN COLOR",
       "price": "$12.000",
       "image": "./assets/accesories/product-7.jpg"
     },{
@@ -179,12 +179,12 @@
       "image": "./assets/accesories/product-11.jpg"
     },{
       "title": "ref: HL15",
-      "description": "BRILLO MAGICO HIDRATANTE TRENDY HONEY",
+      "description": "BRILLO MÁGICO HIDRATANTE TRENDY HONEY",
       "price": "$6.000",
       "image": "./assets/accesories/product-12.jpg"
     },{
       "title": "ref: 2974-47",
-      "description": "BRILLO MAGICO ALOE VERA KARITE",
+      "description": "BRILLO MÁGICO ALOE VERA KARITE",
       "price": "$4.000",
       "image": "./assets/accesories/product-13.jpg"
     },{
@@ -294,17 +294,17 @@
       "image": "./assets/accesories/product-34.jpg"
     },{
       "title": "ref: SL20",
-      "description": "KIT DE OJOS TRENDY SUPER LOOK PESTAÑINA + DELINEADOR EN POMADA + LAPIZ DE GEL",
+      "description": "KIT DE OJOS TRENDY SUPER LOOK PESTAÑINA + DELINEADOR EN POMADA + LÁPIZ DE GEL",
       "price": "$18.000",
       "image": "./assets/accesories/product-35.jpg"
     },{
       "title": "ref: Ey16",
-      "description": "LAPIZ DE OJOS TRENDY BLANCO",
+      "description": "LÁPIZ DE OJOS TRENDY BLANCO",
       "price": "$12.000",
       "image": "./assets/accesories/product-36.jpg"
     },{
       "title": "ref: EY18",
-      "description": "LAPIZ DE OJOS CREMA TRENDY",
+      "description": "LÁPIZ DE OJOS CREMA TRENDY",
       "price": "$12.000",
       "image": "./assets/accesories/product-37.jpg"
     },{
@@ -314,12 +314,12 @@
       "image": "./assets/accesories/product-38.jpg"
     },{
       "title": "ref: EY22",
-      "description": "LAPIZ DE OJOS PLATEADO TRENDY - unidad",
+      "description": "LÁPIZ DE OJOS PLATEADO TRENDY - unidad",
       "price": "$12.000",
       "image": "./assets/accesories/product-39.jpg"
     },{
       "title": "ref: BC04",
-      "description": "COCTEL DE CEJAS TRENDY BETUN + POLVO",
+      "description": "CÓCTEL DE CEJAS TRENDY BETÚN + POLVO",
       "price": "$18.000",
       "image": "./assets/accesories/product-40.jpg"
     },{

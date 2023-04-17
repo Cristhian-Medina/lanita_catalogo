@@ -38,11 +38,12 @@ ul {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 .title-container {
-  background-color: #F397BF;
-  height: 40px;
+  background-color: var(--color-primary);
+  min-height: 40px;
   width: 100%;
   border-radius: 20px;
   display: flex;
@@ -62,7 +63,7 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: white;
+  color: var(--color-white);
   padding: 50px 13px;
 }
 header .title-container p {
@@ -70,6 +71,7 @@ header .title-container p {
   font-family: var(--font-title);
   font-size: 3rem;
   letter-spacing: 1.2px;
+  margin: 0;
 }
 header .title-container .icon {
   margin-left: 10px;
@@ -89,6 +91,31 @@ header .lunita-phrase {
 /* MAIN */
 main {
   padding: 0 13px;
+}
+.contact-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-items: center;
+  gap: 30px;
+  padding: 20px 0;
+}
+.contact-list li {
+  width: 80%;
+}
+.contact-list li a {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 2rem;
+  border-radius: 10px;
+  color: var(--color-white);
+  background: var(--color-secondary);
+}
+.contact-list li a:hover {
+  background: var(--color-primary);
+  color: var(--color-secondary);
 }
 .cards-list {
   display: grid;
@@ -143,7 +170,7 @@ main {
   font-weight: bold;
   color: var(--color-secondary);
 }
-.contact-list {
+.social-list {
   display: flex;
   justify-content: space-evenly;
 }
@@ -156,6 +183,14 @@ main {
   height: 60px;
 }
 .float-icon a img {
+  width: 100%;
+}
+
+.ads-container {
+  width: 100%;
+  margin-bottom: 40px;
+}
+.ads-container img {
   width: 100%;
 }
 
@@ -181,6 +216,12 @@ footer p a {
     height: 60px;
     width: 500px;
   }
+  .contact-list {
+    gap: 20px;
+  }
+  .contact-list li {
+    width: 50%;
+  }
   .cards-list {
     grid-template-columns: 1fr 1fr;
   }
@@ -194,6 +235,12 @@ footer p a {
 @media (min-width: 996px) {
   body {
     font-size: 1.8rem;
+  }
+  .contact-list {
+    grid-template-columns: 1fr 1fr;
+  }
+  .contact-list li {
+    width: 80%;
   }
   .cards-list {
     grid-template-columns: 1fr 1fr 1fr;

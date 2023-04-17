@@ -20,14 +20,10 @@ const lazyload = () => {
 }
 
 const createCard = (item) => {
-  let link = item.description.replaceAll(" ", "%20");
-  console.log(link);
   card = `
     <article class="card">
       <figure class="card-image-container">
-        <a href="https://wa.me/+573203700302?text=Me%20interesa%20el%20producto%20${link}" target="_blank" rel="noreferrer">
-          <img data-src=${item.image} alt=${item.title} loading="lazy" class="card-image"/>
-        </a>
+        <img data-src=${item.image} alt=${item.title} loading="lazy" class="card-image"/>
       </figure>
       <p class="card-title">${item.title}</p>
       <p class="card-description">${item.description}</p>
